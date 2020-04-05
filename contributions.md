@@ -36,4 +36,7 @@ following the same syntax.
 |  9   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Taobao&oldid=947857589)    | Wikipedia Edit |    Inserted an image of AliExpress from Wikimedia Commons
 |  9   | [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Guinea-Pig.png.jpg&oldid=407710278)    | Wikimedia Commons |    Uploaded a photo of my guinea pig 
 |  9   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Hello_Kitty&oldid=947863197)    | Wikipedia Edit |   Inserted an image of Louis vuiton hello kitty mini cooper from Wikimedia Commons
+|  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Hoodie&oldid=949251106)    | Wikipedia Edit |   Inserted an image of Mark Zuckerberg wearing a hoodie from Wikimedia Commons
+|  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Alibaba_Group&oldid=949251482)    | Wikipedia Edit |   Inserted an image of Alibaba group Headquarters from Wikimedia Commons
+
 
