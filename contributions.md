@@ -40,5 +40,5 @@ following the same syntax.
 |  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Alibaba_Group&oldid=949251482)    | Wikipedia Edit |   Inserted an image of Alibaba group Headquarters from Wikimedia Commons
 |  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Fuzhounese_Americans&oldid=949634534)    | Wikipedia Edit |   Inserted an internal link on Fuzhounese Americans article
 |  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Alibaba_Group&oldid=949251482)    | Wikipedia Edit |   Added two citations in the paragraph by inserting external links
-
+|  11   | [OSM Contribution](https://www.openstreetmap.org/changeset/83874707)    | Open Street Map  |    Added Fuzhou Seafood Market Inc in Brooklyn |
 
