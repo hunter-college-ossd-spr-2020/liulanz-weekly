@@ -43,4 +43,5 @@ following the same syntax.
 |  10   | [Next.js Contribution](https://github.com/zeit/next.js/pull/11833)    | Project |    Updated npm packages in multiple package.json files |
 |  11   | [OSM Contribution](https://www.openstreetmap.org/changeset/83874707)    | Open Street Map  |    Added Fuzhou Seafood Market Inc in Brooklyn |
 |  12   | [Next.js Contribution](https://github.com/zeit/next.js/pull/11968)    | Project  |    Updated example template in contributing.md |
+|  13   | [First Contribution](https://github.com/firstcontributions/first-contributions/pull/26885)    | GitHub repo  |    Added my name and my GitHub link on the contributor list |
 
